@@ -1,0 +1,22 @@
+Enter the title:
+Harry Potter
+
+Enter the author:
+J.K. Rowling
+
+Enter number of pages:
+500
+
+
+Author: J.K. Rowling
+Title: Harry Potter
+Number of Pages: 500
+
+
+Change the title of the book
+Fellowship of the Ring
+
+
+Author: J.K. Rowling
+Title: Fellowship of the Ring
+Number of Pages: 500
